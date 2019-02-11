@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" apprev="17213" appversion="6.0">
+  <panorama id="node1">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" width="7289" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="7289" overlap="1" levelbias="0.400">
+      <level width="7289" height="7289" predecode="0" preload="0"/>
+      <level width="3644" height="3644" predecode="0" preload="0"/>
+      <level width="1822" height="1822" predecode="0" preload="0"/>
+      <level width="911" height="911" predecode="0" preload="0"/>
+      <level width="455" height="455" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fov="120" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="咱家" latitude="37.643548" source="" info="" datetime="1970/1/1 0:00" copyright="" author="" longitude="115.304520" customnodeid="" tags="2019-hometown|home" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" width="180" borderalpha="1" border="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1"/>
+      <hotspot tilt="24.38" title="村东" url="{node2}" id="Point01" pan="-99.07" target="50.9/-19.8/70.0" skinid="ht_node" description=""/>
+      <hotspot tilt="25.93" title="村西" url="{node3}" id="Point02" pan="100.477" target="$fwd" skinid="ht_node" description=""/>
+      <hotspot tilt="16.3" title="村南" url="{node4}" id="Point03" pan="183.153" target="$fwd" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" softedge="0" zoomfov="20" type="crossdissolve" enabled="1" zoomoutpause="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertwheel="0" speedwheel="1" hideabout="0" invertcontrol="1" contextfullscreen="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" simulatemass="1" rubberband="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" width="7115" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="7115" overlap="1" levelbias="0.400">
+      <level width="7115" height="7115" predecode="0" preload="0"/>
+      <level width="3557" height="3557" predecode="0" preload="0"/>
+      <level width="1778" height="1778" predecode="0" preload="0"/>
+      <level width="889" height="889" predecode="0" preload="0"/>
+      <level width="444" height="444" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fov="120" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="村东" latitude="37.643545" source="" info="" datetime="1970/1/1 0:00" copyright="" author="" longitude="115.304533" customnodeid="" tags="2019-hometown" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" width="180" borderalpha="1" border="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1"/>
+      <hotspot tilt="-89.16" title="咱家" url="{node1}" id="Point01" pan="-279.26" target="" skinid="ht_node" description=""/>
+      <hotspot tilt="-13.3" title="村南" url="{node4}" id="Point02" pan="99.95" target="$fwd" skinid="ht_node" description=""/>
+      <hotspot tilt="-15.96" title="村西" url="{node3}" id="Point03" pan="-355.45" target="-139.3/-23.8/70.0" skinid="ht_node" description=""/>
+      <hotspot tilt="-45.59" title="大队院" url="" id="Point04" pan="-288.89" target="" skinid="ht_info" description="稍门口村，属冀州市门家庄乡，代码131181210。&#xa;"/>
+      <hotspot tilt="-5.64" title="丁家庄" url="" id="Point05" pan="-55.16" target="" skinid="ht_info" description="稍门口邻村。"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" softedge="0" zoomfov="20" type="crossdissolve" enabled="1" zoomoutpause="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertwheel="0" speedwheel="1" hideabout="0" invertcontrol="1" contextfullscreen="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" simulatemass="1" rubberband="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" width="7114" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="7114" overlap="1" levelbias="0.400">
+      <level width="7114" height="7114" predecode="0" preload="0"/>
+      <level width="3557" height="3557" predecode="0" preload="0"/>
+      <level width="1778" height="1778" predecode="0" preload="0"/>
+      <level width="889" height="889" predecode="0" preload="0"/>
+      <level width="444" height="444" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fov="120" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="村西" latitude="37.643043" source="" info="" datetime="1970/1/1 0:00" copyright="" author="" longitude="115.302402" customnodeid="" tags="2019-hometown" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" width="180" borderalpha="1" border="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1"/>
+      <hotspot tilt="-12.78" title="村东" url="{node2}" id="Point02" pan="-303.1" target="-179.6/-27.9/70.0" skinid="ht_node" description=""/>
+      <hotspot tilt="-10.53" title="村南" url="{node4}" id="Point03" pan="-357.04" target="101.0/-25.2/70.0" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" softedge="0" zoomfov="20" type="crossdissolve" enabled="1" zoomoutpause="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertwheel="0" speedwheel="1" hideabout="0" invertcontrol="1" contextfullscreen="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" simulatemass="1" rubberband="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" leveltilesize="510" levelingpitch="0" width="7112" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="7112" overlap="1" levelbias="0.400">
+      <level width="7112" height="7112" predecode="0" preload="0"/>
+      <level width="3556" height="3556" predecode="0" preload="0"/>
+      <level width="1778" height="1778" predecode="0" preload="0"/>
+      <level width="889" height="889" predecode="0" preload="0"/>
+      <level width="444" height="444" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fov="120" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="村南" latitude="37.641927" source="" info="" datetime="1970/1/1 0:00" copyright="" author="" longitude="115.304425" customnodeid="" tags="2019-hometown" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" width="180" borderalpha="1" border="1" backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1"/>
+      <hotspot tilt="-11.21" title="村西" url="{node3}" id="Point01" pan="-15.68" target="$fwd" skinid="ht_node" description=""/>
+      <hotspot tilt="-23.32" title="" url="{node2}" id="Point02" pan="-119.83" target="174.0/-26.9/70.0" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" softedge="0" zoomfov="20" type="crossdissolve" enabled="1" zoomoutpause="1" zoomout="0" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedmouse="0" invertwheel="0" speedwheel="1" hideabout="0" invertcontrol="1" contextfullscreen="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" simulatemass="1" rubberband="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" latitude="" source="" info="" datetime="" copyright="" author="" longitude="" customnodeid="" tags="" comment="" description=""/>
+  </masternode>
+</tour>
